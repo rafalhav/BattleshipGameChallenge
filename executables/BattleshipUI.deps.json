@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BattleshipUI/1.0.0": {
+        "dependencies": {
+          "BattleshipGameCore": "1.0.0"
+        },
+        "runtime": {
+          "BattleshipUI.dll": {}
+        }
+      },
+      "BattleshipGameCore/1.0.0": {
+        "runtime": {
+          "BattleshipGameCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BattleshipUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BattleshipGameCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
